@@ -1,0 +1,1 @@
+EMOJI_CHARACTER_STATS_ADD	|Eemoji/key_ctrl|e + |Eemoji/key_lclick|e - Add x10
